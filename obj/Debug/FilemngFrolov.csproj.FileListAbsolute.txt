@@ -1,0 +1,13 @@
+C:\Users\Admin\source\repos\FilemngFrolov\bin\Debug\FilemngFrolov.exe.config
+C:\Users\Admin\source\repos\FilemngFrolov\bin\Debug\FilemngFrolov.exe
+C:\Users\Admin\source\repos\FilemngFrolov\bin\Debug\FilemngFrolov.pdb
+C:\Users\Admin\source\repos\FilemngFrolov\bin\Debug\MetroFramework.Design.dll
+C:\Users\Admin\source\repos\FilemngFrolov\bin\Debug\MetroFramework.dll
+C:\Users\Admin\source\repos\FilemngFrolov\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Admin\source\repos\FilemngFrolov\obj\Debug\FilemngFrolov.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\FilemngFrolov\obj\Debug\FilemngFrolov.Form1.resources
+C:\Users\Admin\source\repos\FilemngFrolov\obj\Debug\FilemngFrolov.Properties.Resources.resources
+C:\Users\Admin\source\repos\FilemngFrolov\obj\Debug\FilemngFrolov.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\FilemngFrolov\obj\Debug\FilemngFrolov.csproj.CopyComplete
+C:\Users\Admin\source\repos\FilemngFrolov\obj\Debug\FilemngFrolov.exe
+C:\Users\Admin\source\repos\FilemngFrolov\obj\Debug\FilemngFrolov.pdb
